@@ -1,0 +1,12 @@
+{
+  "name": "ng-randomid",
+  "description": "Generate random id strings as an angular factory - packaged as component",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "dependencies": {
+
+  }
+}
