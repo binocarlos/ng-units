@@ -1,5 +1,5 @@
 {
-  "name": "ng-randomid",
+  "name": "ng-units",
   "description": "Generate random id strings as an angular factory - packaged as component",
   "version": "0.0.1",
   "main": "index.js",
